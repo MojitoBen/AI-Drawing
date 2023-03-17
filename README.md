@@ -1,6 +1,6 @@
 
 ### AI-Drawing
-__with chatGPT, midjourney, stable diffusion, CivitAI, huggingface__  
+__with chatGPT, midjourney, stable diffusion, CivitAI, huggingface, playground AI__  
 
 chatGPT : https://chat.openai.com/chat  
 midjourney DC link : Https://discord.com/invite/midjourney  
