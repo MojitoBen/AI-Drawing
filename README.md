@@ -16,5 +16,6 @@ Please use https://github.com/camenduru/stable-diffusion-webui-colab for the lat
 　　　5. 選擇想要的模型  
 　　　6. 選擇模型的版本  
 　　　7. 選擇模型的檔案名稱  
-　　　8. 點下載
+　　　8. 點下載  
+或直接去CivitAI網站下載，放到雲端的AI-(fold name)-models-stable diffusion裡
 ----------------------------------------------------------------
