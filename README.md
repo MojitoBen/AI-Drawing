@@ -1,5 +1,10 @@
 # AI-Drawing
-with chatGPT, midjourney, stable diffusion, CivitAI, huggingface
+with chatGPT, midjourney, stable diffusion, CivitAI, huggingface  
+chatGPT : https://chat.openai.com/chat  
+midjourney DC link : Https://discord.com/invite/midjourney  
+CivitAI : https://civitai.com/  
+huggingface : https://huggingface.co/  
+stable diffusion : ↓↓  
 ----------------------------------------------------------------
 Please use https://github.com/camenduru/stable-diffusion-webui-colab for the latest updated Colab Notebooks.
 ----------------------------------------------------------------
