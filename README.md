@@ -14,14 +14,14 @@ stable diffusion : ↓↓
 ****
 Please use https://github.com/camenduru/stable-diffusion-webui-colab for the latest updated Colab Notebooks.
 ****
-安裝模組：  
-　　　1. 點 [ CivitAI ]   
-　　　2. 打勾 [ Search by term? ]   
-　　　3. [ Srearch term ] 欄位輸入你想搜尋的模型   
-　　　4. 按下 [ Get List ] －稍微等兩秒－   
-　　　5. 選擇想要的模型  
-　　　6. 選擇模型的版本  
-　　　7. 選擇模型的檔案名稱  
-　　　8. 點下載  
-☆或直接去CivitAI網站下載，放到雲端的AI-(fold name)-models-stable diffusion裡
+Module Installation:  
+&#8195;&#8195;&#8195;&#8195;1.Click [CivitAI]  
+&#8195;&#8195;&#8195;&#8195;2.Check [Search by term?]  
+&#8195;&#8195;&#8195;&#8195;3.Enter the model you want to search for in the [Search term] field  
+&#8195;&#8195;&#8195;&#8195;4.Click [Get List] - wait for two seconds-  
+&#8195;&#8195;&#8195;&#8195;5.Select the desired model  
+&#8195;&#8195;&#8195;&#8195;6.Choose the version of the model  
+&#8195;&#8195;&#8195;&#8195;7.Select the file name of the model  
+&#8195;&#8195;&#8195;&#8195;8.Click Download  
+☆ Alternatively, you can download the module directly from the CivitAI website and place it in the AI-(folder name)-models-stable diffusion on the cloud.
 ****
